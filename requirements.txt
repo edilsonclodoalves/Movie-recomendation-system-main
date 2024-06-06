@@ -1,0 +1,9 @@
+ipykernel
+streamlit
+numpy 
+pandas 
+matplotlib 
+nltk
+scikit-learn
+#local packages
+-e .
